@@ -1,0 +1,13 @@
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\bin\Debug\FeeCollector.exe.config
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\bin\Debug\FeeCollector.exe
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\bin\Debug\FeeCollector.pdb
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.csprojResolveAssemblyReference.cache
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.frmLogin.resources
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.Properties.Resources.resources
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.csproj.GenerateResource.Cache
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.exe
+c:\users\jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.pdb
+C:\Users\Jerad\Documents\Visual Studio 2015\Projects\FeeCollector\FeeCollector\bin\Debug\PrimaryDB.mdf
+C:\Users\Jerad\Documents\Visual Studio 2015\Projects\FeeCollector\FeeCollector\bin\Debug\PrimaryDB_log.ldf
+C:\Users\Jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.frmMain.resources
+C:\Users\Jerad\documents\visual studio 2015\Projects\FeeCollector\FeeCollector\obj\Debug\FeeCollector.frmAdmin.resources
